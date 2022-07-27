@@ -7,7 +7,16 @@ This project is a fork of [angular-sample](https://github.com/guilherme-nsr/angu
 
 ## Getting Started
 1. Clone this repo
-2. `$ cd angular-sample-local`
-3. `$ npm install`
-4. `$ ng serve`
+2. cd into the repo
+```sh
+$ cd angular-sample-local
+```
+3. Install dependencies
+```
+$ npm install
+```
+4. Start development server
+```
+$ ng serve
+```
 5. Open your browser at [localhost:4200](http://localhost:4200)
